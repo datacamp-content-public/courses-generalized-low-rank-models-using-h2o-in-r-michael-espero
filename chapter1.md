@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-## Insert exercise title here
+## Reconstruct Mixed Data
 
 ```yaml
 type: VideoExercise
