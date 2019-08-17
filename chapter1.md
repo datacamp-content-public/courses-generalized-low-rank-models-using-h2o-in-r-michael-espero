@@ -40,3 +40,16 @@ This is an example exercise.
 ```{r}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: cd338fe366
+xp: 50
+```
+
+`@projector_key`
+dfd6b8d3c44c67af8e825322663f11ef
